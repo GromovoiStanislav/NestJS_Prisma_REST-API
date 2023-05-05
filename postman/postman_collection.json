@@ -230,7 +230,7 @@
 			"response": []
 		},
 		{
-			"name": "bookmarks/:id Copy",
+			"name": "bookmarks/:id",
 			"request": {
 				"auth": {
 					"type": "bearer",
